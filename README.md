@@ -16,6 +16,7 @@
 
 📬 Reach me at: [boikanyo.dev@gmail.com](mailto:boikanyo.dev@gmail.com)  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/boikanyo-mohlamonyane)  
+🌐 Portfolio: [boikanyo-portfolio.netlify.app](https://boikanyo-portfolio.netlify.app)
 
 ⚡ Fun fact: I started coding by customizing my favorite games — now I build full-blown web apps! 🎮💻  
 
