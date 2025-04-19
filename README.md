@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Boikanyo-Mohlamonyane
+# 👋 Hi, I’m Boikanyo Mohlamonyane
 
 - 👀 I’m interested in web development, software engineering, and building impactful tech solutions.
 - 🌱 I’m currently learning React, Node.js, and sharpening my data structures & algorithms skills.
