@@ -14,7 +14,7 @@
 - Tech for Education and Social Impact  
 - Exploring AI and cloud integrations  
 
-📬 Reach me at: [boikanyokanyo481@gmail.com](mailto:boikanyokanyo481@gmail.com)  
+📬 Reach me at: [boikanyo.dev@gmail.com](mailto:boikanyo.dev@gmail.com)  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/boikanyo-mohlamonyane)  
 
 ⚡ Fun fact: I started coding by customizing my favorite games — now I build full-blown web apps! 🎮💻  
@@ -34,6 +34,11 @@
 
 ## 🧑‍💻 Most Used Languages (GitHub Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boikanyo-Mohlamonyane&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 2025 Contribution Graph
+![2025 Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Boikanyo-Mohlamonyane&theme=github-compact&hide_border=true)
 
 ---
 
