@@ -14,7 +14,7 @@
 - Tech for Education and Social Impact  
 - Exploring AI and cloud integrations  
 
-📬 Reach me at: [boikanyo.dev@gmail.com](mailto:boikanyo.dev@gmail.com)  
+📬 Reach me at: [boikanyokanyo481@gmail.com](mailto:boikanyokanyo481@gmail.com)  
 🌐 Portfolio: [boikanyo-portfolio.netlify.app](https://boikanyo-portfolio.netlify.app)
 
 ⚡ Fun fact: I started coding by customizing my favorite games — now I build full-blown web apps! 🎮💻  
