@@ -15,7 +15,7 @@
 - Exploring AI and cloud integrations  
 
 📬 Reach me at: [boikanyokanyo481@gmail.com](mailto:boikanyokanyo481@gmail.com)  
-🌐 Portfolio: [Boikanyo-Porfolio](https://boikanyo-mohlamonyane-portfolio.netlify.app)
+🌐 Portfolio: [Boikanyo-Porfolio]([https://boikanyo-mohlamonyane.netlify.app]
  
 
 ---
