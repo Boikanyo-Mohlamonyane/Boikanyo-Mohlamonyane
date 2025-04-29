@@ -4,7 +4,7 @@
 
 ---
 
-✅ Recently built: **Campus Portal** – a student-friendly web platform designed for seamless access to campus tools and info.  
+✅ Recently building: **Campus Portal** – a student-friendly web platform designed for seamless access to campus tools and info.  
 🧠 Currently learning: **React**, **Firebase**, and diving deeper into **full-stack JavaScript**.  
 🌟 Always open to contributing to open-source projects and collaborating with other tech enthusiasts.  
 
